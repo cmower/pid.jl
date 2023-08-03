@@ -1,2 +1,3 @@
 # pid.jl
-PID controller implementation in Julia (first steps into Julia). 
+
+PID controller implementation in Julia.
